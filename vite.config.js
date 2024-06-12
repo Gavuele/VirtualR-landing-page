@@ -8,5 +8,10 @@ export default defineConfig({
     rollupOptions: {
       external: ['lucide-react'],
     },
-  },
+    resolve: {
+      alias: {
+        '@': '/src',
+      },
+    },
+  }
 });
