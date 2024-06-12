@@ -4,4 +4,4 @@
 # Lucide-react
 # Tailwind
 
-Deployed link: https://virtualr-landing-page.onrender.com
+Deployed link: virtual-r-landing-page-tt32.vercel.app/
